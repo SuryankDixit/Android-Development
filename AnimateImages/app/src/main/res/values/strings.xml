@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimateImages</string>
+    <string name="click_on_image">Click on Image</string>
+    <string name="bartImage">Bart Image</string>
+</resources>
