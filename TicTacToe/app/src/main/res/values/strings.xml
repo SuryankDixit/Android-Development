@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="cell0">cell0</string>
+    <string name="cell6">cell6</string>
+    <string name="cell5">cell5</string>
+    <string name="cell7">cell7</string>
+    <string name="cell4">cell4</string>
+    <string name="cell8">cell8</string>
+    <string name="cell3">cell3</string>
+    <string name="cell1">cell1</string>
+    <string name="cell2">cell2</string>
+</resources>
